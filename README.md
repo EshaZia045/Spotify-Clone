@@ -54,6 +54,8 @@ Architecture Benefits
 •	Easier debugging and maintenance 
 •	Separation of concerns 
 •	Better scalability for future enhancements 
+
+
 4. Application Features
 4.1 Home Dashboard Feed
 The Home Dashboard serves as the application's landing page and provides users with quick access to music content.
@@ -88,8 +90,12 @@ Home Dashboard
         ↓
 Player Screen
 Users can select any song displayed on the Home Dashboard and seamlessly navigate to the Player Screen.
+
+
 4.4 Dynamic Playback Controls
 The application includes interactive playback controls that allow users to play and pause music. React state management is used to update the playback status dynamically, ensuring that the corresponding icons and interface elements change instantly based on user interaction.
+
+
 4.5 Favorite Song Functionality
 A favorite feature was implemented to allow users to mark songs they like. By tapping the heart icon, users can add or remove songs from their favorites, with the interface providing immediate visual feedback through dynamic icon updates.
 
