@@ -95,8 +95,9 @@ A favorite feature was implemented to allow users to mark songs they like. By ta
 
 5. GitHub Repository
 GitHub Repository Link:
+https://github.com/EshaZia045/Spotify-Clone/tree/main
 
-6. Conclusion
+7. Conclusion
 This project successfully fulfilled all the requirements of the assignment. Through the development of a Spotify-inspired mobile application, practical experience was gained in React Native, Expo SDK, TypeScript, navigation, state management, and responsive mobile UI design. The project enhanced understanding of modern mobile development practices and strengthened overall application development skills.
 
 
